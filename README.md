@@ -1,84 +1,90 @@
-AI Career Mentor Agent
+ANALYSIS.md
 
 Overview
 
-AI Career Mentor is an Agentic AI system designed to help students and beginners navigate careers in Artificial Intelligence, Machine Learning, Data Science, and Software Engineering.
 
-Many students struggle to identify the right skills, projects, certifications, internships, and learning roadmap. This agent provides personalized career guidance based on a student's current level, interests, and goals.
+AI Career Mentor Agent - Detailed Analysis
 
-Problem Statement
+1. Problem
 
-Students face information overload when trying to build a career in AI and Software Engineering.
+Students interested in AI and Software Engineering often struggle to identify the correct learning path.
 
-Common challenges include:
+They face confusion regarding:
 
-- Choosing the right skills
-- Selecting useful certifications
-- Finding relevant projects
-- Applying for internships
-- Creating a learning roadmap
+- Skills
+- Certifications
+- Projects
+- Internships
+- Career Roadmaps
 
-Solution
+2. Evidence
 
-The AI Career Mentor Agent:
+Students frequently ask:
 
-- Analyzes student profiles
-- Recommends skills
-- Suggests projects
-- Suggests certifications
-- Recommends internships
-- Generates roadmaps
+- How do I become an AI Engineer?
+- Which projects should I build?
+- Which certifications matter?
+- How do I get internships?
 
-Target Users
+These questions appear across student communities and forums.
 
-- College Students
-- Freshers
-- Career Switchers
-- Self Learners
+3. Who Pays
 
-Agent Workflow
+Potential customers:
 
-User Input
+- Students
+- Colleges
+- EdTech Companies
 
-↓
+4. Existing Alternatives
 
-Career Analysis Agent
+Current alternatives include:
 
-↓
+- YouTube
+- Career Counselors
+- ChatGPT
+- Blogs
 
-Roadmap Agent
+Limitations:
 
-↓
+- Generic advice
+- Information overload
+- Lack of personalization
 
-Project Recommendation Agent
+5. Agent Architecture
 
-↓
+Input:
 
-Certification Agent
+- Education Level
+- Skills
+- Interests
+- Career Goals
 
-↓
+Agents:
 
-Internship Recommendation Agent
+1. Career Analysis Agent
+2. Roadmap Agent
+3. Project Agent
+4. Certification Agent
+5. Internship Agent
 
-↓
+Output:
 
-Final Career Plan
+- Personalized Career Plan
 
-Future Scope
+6. MVP Scope
 
-- Resume Analysis
-- LinkedIn Review
-- GitHub Analysis
-- AI Interview Preparation
+Features:
 
-MVP
+- Profile Collection
+- Career Analysis
+- Roadmap Generation
+- Project Recommendations
+- Certification Suggestions
+- Internship Recommendations
 
-The MVP includes:
+Conclusion
 
-1. Student profile collection
-2. Goal analysis
-3. Roadmap generation
-4. Project suggestions
-5. Certification suggestions
-6. Internship recommendations# AI-Career-Mentor-Agent-v2
-An AI Agent that helps students choose skills, projects, certifications, internships, and career paths.
+AI Career Mentor helps students make better career decisions through personalized AI-powered guidance.
+
+
